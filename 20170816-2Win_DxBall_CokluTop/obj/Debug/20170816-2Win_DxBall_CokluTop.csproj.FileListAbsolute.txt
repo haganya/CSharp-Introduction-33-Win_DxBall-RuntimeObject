@@ -1,0 +1,17 @@
+c:\users\echo\documents\visual studio 2017\Projects\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\bin\Debug\20170816-2Win_DxBall_CokluTop.exe.config
+c:\users\echo\documents\visual studio 2017\Projects\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\bin\Debug\20170816-2Win_DxBall_CokluTop.exe
+c:\users\echo\documents\visual studio 2017\Projects\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\bin\Debug\20170816-2Win_DxBall_CokluTop.pdb
+c:\users\echo\documents\visual studio 2017\Projects\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\_20170816_2Win_DxBall_CokluTop.Form1.resources
+c:\users\echo\documents\visual studio 2017\Projects\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\_20170816_2Win_DxBall_CokluTop.Properties.Resources.resources
+c:\users\echo\documents\visual studio 2017\Projects\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\20170816-2Win_DxBall_CokluTop.csproj.GenerateResource.Cache
+c:\users\echo\documents\visual studio 2017\Projects\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\20170816-2Win_DxBall_CokluTop.exe
+c:\users\echo\documents\visual studio 2017\Projects\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\20170816-2Win_DxBall_CokluTop.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\bin\Debug\20170816-2Win_DxBall_CokluTop.exe.config
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\bin\Debug\20170816-2Win_DxBall_CokluTop.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\bin\Debug\20170816-2Win_DxBall_CokluTop.pdb
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\_20170816_2Win_DxBall_CokluTop.Form1.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\_20170816_2Win_DxBall_CokluTop.Properties.Resources.resources
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\20170816-2Win_DxBall_CokluTop.csproj.GenerateResource.Cache
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\20170816-2Win_DxBall_CokluTop.csproj.CoreCompileInputs.cache
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\20170816-2Win_DxBall_CokluTop.exe
+C:\Users\Echo\OneDrive\Hakan Csharp\1- İNTRODUCTİON\20170816-2Win_DxBall_CokluTop\20170816-2Win_DxBall_CokluTop\obj\Debug\20170816-2Win_DxBall_CokluTop.pdb
